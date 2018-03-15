@@ -22,7 +22,7 @@ body {
     right: 0;
     z-index: -1;
 
-    background: url("../../bg.jpg") no-repeat;
+    background: url("../bg.jpg") no-repeat;
     background-size: cover;
     -webkit-filter: blur(15px);
     -moz-filter: blur(15px);
@@ -59,12 +59,14 @@ body {
     font-family: 'Germania One';
     font-size: 1.5em;
     color: #4C4C4C;
+    transition: color 0.45s;
     margin: 10px 20px;
     text-decoration: none;
 }
 
 .navigation > a:hover {
     color: #D5D5D5;
+    transition: color 0.3s;
 }
 
 .container {
@@ -78,6 +80,7 @@ body {
 
 .portrait {
     max-width: 100%;
+    margin: 50px auto;
 }
 
 .name {
