@@ -9,26 +9,7 @@ body {
 .wrapper {
     width: 100%;
     height: 100%;
-
-}
-
-.wrapper:before {
-    width: 100%;
-    height: 100%;
-
-    content: "";
-    position: fixed;
-    left: 0;
-    right: 0;
-    z-index: -1;
-
-    background: url("../sites/") no-repeat;
-    background-size: cover;
-    -webkit-filter: blur(15px);
-    -moz-filter: blur(15px);
-    -o-filter: blur(15px);
-    -ms-filter: blur(15px);
-    filter: blur(15px) brightness(25%) contrast(80%);
+    margin-bottom: 300px;
 }
 
 .bg {
@@ -39,13 +20,9 @@ body {
     min-height: 100%;
     z-index: -1;
 
-    background: url("../sites/") no-repeat;
+    background: no-repeat;
     background-size: cover;
-    -webkit-filter: blur(15px);
-    -moz-filter: blur(15px);
-    -o-filter: blur(15px);
-    -ms-filter: blur(15px);
-    filter: blur(15px) brightness(25%) contrast(80%);
+    filter: brightness(30%) contrast(80%);
 
 }
 
@@ -116,12 +93,20 @@ body {
     margin: 10px auto;
 }
 
+.summary {
+    margin-bottom: 1.5em;
+}
+
+.paragraph {
+
+}
+
 hr {
     border: 0;
-    height: 1px;
+    height: 2px;
     background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
     background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
     background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
     background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
-    margin: 15px auto;
+    margin: 20px auto;
 }
