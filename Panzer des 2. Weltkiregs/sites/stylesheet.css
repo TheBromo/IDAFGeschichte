@@ -22,13 +22,31 @@ body {
     right: 0;
     z-index: -1;
 
-    background: url("../bg.jpg") no-repeat;
+    background: url("../sites/") no-repeat;
     background-size: cover;
     -webkit-filter: blur(15px);
     -moz-filter: blur(15px);
     -o-filter: blur(15px);
     -ms-filter: blur(15px);
     filter: blur(15px) brightness(25%) contrast(80%);
+}
+
+.bg {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+
+    background: url("../sites/") no-repeat;
+    background-size: cover;
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px) brightness(25%) contrast(80%);
+
 }
 
 .header {
@@ -81,6 +99,8 @@ body {
 .portrait {
     max-width: 100%;
     margin: 50px auto;
+    align-self: center;
+    display: block;
 }
 
 .name {
