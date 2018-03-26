@@ -9,7 +9,6 @@ body {
 .wrapper {
     width: 100%;
     height: 100%;
-    margin-bottom: 300px;
 }
 
 .bg {
@@ -66,11 +65,12 @@ body {
 
 .container {
     font-family: 'Roboto Slab', serif;
+    max-width: 900px;
+    margin: auto;
 }
 
 .content {
-    max-width: 800px;
-    margin: auto;
+
 }
 
 .portrait {
@@ -87,23 +87,57 @@ body {
     font-size: 2.5em;
 }
 
+.origin {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.origin p {
+    text-align: center;
+    line-height: 25px;
+}
+
+.origin img {
+    margin: 0 5px;
+    width: 40px;
+    height: 25px;
+}
+
 .heading {
     width: 100%;
     text-align: center;
+    font-size: 1.5em;
     margin: 10px auto;
 }
 
 .summary {
     margin-bottom: 1.5em;
+    font-size: 1.2em;
+    hyphens: auto;
+    text-align: justify;
 }
 
 .paragraph {
+    margin-bottom: 1.5em;
+    font-size: 1.2em;
+    hyphens: auto;
+    text-align: justify;
+}
 
+.footer {
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 160px;
+    font-family: 'Roboto Slab';
+    color: #696868;
+    background: linear-gradient(transparent, #161616);
 }
 
 hr {
     border: 0;
-    height: 2px;
+    height: 3px;
     background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
     background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
     background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
