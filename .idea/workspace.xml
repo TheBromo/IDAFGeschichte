@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bd84be4-772c-4e25-a6c5-a50834875107" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/resources/BurningHouse.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/bg.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/pictures/NSDAP_flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/sherman/bg.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/sherman/poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/t34/bg.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/pictures/sources.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/sherman/panther.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/BurningHouse.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/Panzer-profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/pictures/Panzer-V_Panther_Ausf-D1_Kursk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/pictures/Panzer-V_Panther_Ausf-D1_Kursk_HD.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/bg.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/poster.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/sherman/bg.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/sherman/poster.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css" afterPath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/t34/bg.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/t34/poster.jpg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,21 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="462">
+              <caret line="22" column="82" lean-forward="false" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panther.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panther.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="483">
+              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -55,8 +50,8 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="210">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -64,10 +59,13 @@
       </file>
       <file leaf-file-name="TaskList.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/TaskList.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -86,10 +84,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/stylesheet.css" />
-        <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html" />
         <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/TaskList.md" />
-        <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css" />
         <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html" />
+        <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html" />
+        <option value="$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css" />
       </list>
     </option>
   </component>
@@ -99,8 +97,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="243" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1352" />
     <option name="height" value="856" />
@@ -151,6 +149,13 @@
               <item name="IDAFGeschichte" type="462c0819:PsiDirectoryNode" />
               <item name="Panzer des 2. Weltkiregs" type="462c0819:PsiDirectoryNode" />
               <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="bg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDAFGeschichte" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDAFGeschichte" type="462c0819:PsiDirectoryNode" />
+              <item name="Panzer des 2. Weltkiregs" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -167,20 +172,6 @@
               <item name="sites" type="462c0819:PsiDirectoryNode" />
               <item name="pictures" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="IDAFGeschichte" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDAFGeschichte" type="462c0819:PsiDirectoryNode" />
-              <item name="Panzer des 2. Weltkiregs" type="462c0819:PsiDirectoryNode" />
-              <item name="sites" type="462c0819:PsiDirectoryNode" />
-              <item name="sherman" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDAFGeschichte" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDAFGeschichte" type="462c0819:PsiDirectoryNode" />
-              <item name="Panzer des 2. Weltkiregs" type="462c0819:PsiDirectoryNode" />
-              <item name="sites" type="462c0819:PsiDirectoryNode" />
-              <item name="t34" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,13 +185,14 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Philip\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\sites\sherman" />
+      <recent name="C:\Users\Philip\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\sites\panther" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\phili\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\sites\pictures" />
       <recent name="C:\Users\phili\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\resources" />
       <recent name="C:\Users\Philip\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\sites" />
-      <recent name="C:\Users\Philip\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\sites\panther" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Philip\Desktop\Code\github\IDAFGeschichte\Panzer des 2. Weltkiregs\sites\panther" />
     </key>
   </component>
@@ -216,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.panther.html">
+  <component name="RunManager">
     <configuration name="panther.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/IDAFGeschichte/Panzer des 2. Weltkiregs/sites/panther/panther.html" />
     <recent_temporary>
       <list size="1">
@@ -242,31 +234,32 @@
       <workItem from="1521718215259" duration="1157000" />
       <workItem from="1521719506002" duration="3241000" />
       <workItem from="1522081922343" duration="7345000" />
+      <workItem from="1522234730845" duration="7508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22936000" />
+    <option name="totallyTimeSpent" value="30444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15917504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -284,9 +277,48 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/TaskList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -318,7 +350,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -343,7 +377,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -367,7 +403,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -383,35 +421,54 @@
     <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/bg.jpg" />
     <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/p1.jpg" />
     <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/TaskList" />
-    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="16" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/TaskList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/TaskList.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/sherman/panther.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="210">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/panther/panther.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="483">
+          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panzer des 2. Weltkiregs/sites/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="82" lean-forward="false" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
