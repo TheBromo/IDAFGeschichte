@@ -4,11 +4,13 @@ body {
     background-color: black;
     color: white;
     font-size: 1em;
+    width: 100%;
+    height: 100%;
 }
 
 .wrapper {
     width: 100%;
-    height: 700px;
+    height: 100%;
 }
 
 .bg {
@@ -31,6 +33,7 @@ body {
 
 .pagetitle {
     font-family: 'Germania One';
+    font-size: 2em;
     color: #D5D5D5;
     background-color: #2C2C2C;
     width: 100%;
@@ -65,6 +68,7 @@ body {
 
 .container {
     font-family: 'Roboto Slab', serif;
+    font-weight: 400;
     max-width: 900px;
     margin: auto;
 }
@@ -107,9 +111,11 @@ body {
 
 .heading {
     width: 100%;
-    text-align: center;
+    text-align: left;
     font-size: 1.5em;
+    font-weight: 700;
     margin: 10px auto;
+    color: white;
 }
 
 .summary {
@@ -128,11 +134,12 @@ body {
 
 .footer {
     text-align: center;
-    padding-bottom: 40px;
-    padding-top: 160px;
     font-family: 'Roboto Slab';
+    font-size: 1em;
+    padding-bottom: 40px;
+    padding-top: 100px;
+
     color: #696868;
-    background: linear-gradient(transparent, #161616);
 }
 
 hr {
@@ -145,8 +152,48 @@ hr {
     margin: 20px auto;
 }
 
-.line .line-text {
-    background: #f2f0e4;
-    padding: 0 20px;
-    Text-align : Center;
+.sources {
+    color: #4e4e4e;
+    width: 100%;
+}
+
+#source-title {
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+#source-title:hover > h2 {
+    color: white;
+}
+
+#source-title.visible img {
+    transform: rotate(180deg);
+}
+
+#source-title img {
+    width: 15px;
+    height: 15px;
+    margin-top: 5px;
+}
+
+#source-title h2 {
+    color: #8c8b8b;
+    font-size: 1.2em;
+    margin: 0 10px;
+}
+
+#source-content {
+    color: white;
+    opacity: 0;
+    max-height: 0;
+    transition: 1s;
+}
+
+#source-content.visible {
+    opacity: 1;
+    max-height: 500px;
 }

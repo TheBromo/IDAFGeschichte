@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <title>Panzer des zweiten Weltkriegs</title>
     <link rel="stylesheet" type="text/css" href="../stylesheet.css">
-    <link href="https://fonts.googleapis.com/css?family=Germania+One|Roboto+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Germania+One|Roboto+Slab:400,700" rel="stylesheet">
 </head>
 <body>
     <div class="wrapper">
-        <video autoplay muted loop class="bg" poster="../bg/Fire.jpg">
-            <source src="../bg/Fire.mp4" type="video/mp4">
+        <video autoplay muted loop class="bg" poster="../bg/Soldat.jpg">
+            <source src="../bg/Soldat.mp4" type="video/mp4">
         </video>
         <div class="header">
             <div class="pagetitle">
-                <h1>Panzer des zweiten Weltkriegs</h1>
+                <p>Panzer des zweiten Weltkriegs</p>
             </div>
             <nav class="navigation">
                 <a href="#">Panther</a>
@@ -24,7 +24,7 @@
         <div class="container">
 
             <img class="portrait" src="profile.png">
-            <h2 class="name">Panzer V - Panther</h2>
+            <h1 class="name">Panzer V - Panther</h1>
             <span class="origin"><img src="../pictures/NSDAP_flag.png"><p>- Deutsches Reich</p></span>
             <hr>
 
@@ -40,13 +40,31 @@
                 <p class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
             </div>
 
-            <div class="line">
-                <h2 class="line-text">Quellen</h2>
+            <hr>
+            <div class="sources">
+                <span id="source-title">
+                    <img src="../pictures/arrows.svg">
+                    <h2>Quellen</h2>
+                    <img src="../pictures/arrows.svg">
+                </span>
+                <div id="source-content">
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                </div>
+
+                <script>
+                    var title = document.getElementById('source-title');
+                    var content = document.getElementById('source-content');
+                    title.onclick = function (ev) {
+                        content.classList.toggle('visible');
+                        title.classList.toggle('visible');
+                    }
+                </script>
             </div>
         </div>
     </div>
+
     <div class="footer">
-        <p>Gelaber - blib blab blub</p>
+        <p>Copyright © 2018</p>
         <p>Website created by Manuel & Philip</p>
     </div>
 </body>
