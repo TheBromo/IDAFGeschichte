@@ -1,0 +1,20 @@
+#map {
+    height: 600px;
+    width: 100%;
+}
+
+#legend {
+    top: 0;
+    font-family: 'Roboto Slab';
+    font-size: 2em;
+    padding: 10px;
+    margin: 10px;
+}
+#legend h3 {
+    margin-top: 0;
+
+}
+#legend img {
+    vertical-align: middle;
+    height: 50px;
+}
