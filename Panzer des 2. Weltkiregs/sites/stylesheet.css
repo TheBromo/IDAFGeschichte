@@ -196,3 +196,64 @@ hr {
     opacity: 1;
     max-height: 500px;
 }
+
+.slideshow {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: rgba(44, 44, 44, 0.81);
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.slide {
+    display: none;
+}
+
+.slide.current {
+    opacity: 1;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+.slideshow:hover .slideshow-button {
+    opacity: 0.5;
+}
+
+.slideshow-button {
+    background-color: #7f7f7f;
+    opacity: 0;
+    transition: opacity 0.3s;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    margin: auto 20px;
+    position: absolute;
+    transition: 0.3s;
+}
+
+.slideshow-button:hover {
+    background-color: #c3c3c3;
+    opacity: 1;
+}
+
+.slideshow-button.left {
+    background-image: url("pictures/arrow-left.svg");
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    left: 0;
+    top: 45%;
+}
+
+.slideshow-button.right {
+    background-image: url("pictures/arrow-right.svg");
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    right: 0;
+    top: 45%;
+}
