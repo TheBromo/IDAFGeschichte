@@ -136,6 +136,17 @@ body {
     text-align: justify;
 }
 
+li {
+    margin-left: 30px;
+}
+
+.specifications {
+    padding: 20px;
+    background-color: rgba(44, 44, 44, 0.81);
+    border-radius: 10px;
+    width: 100%;
+}
+
 .footer {
     text-align: center;
     font-family: 'Roboto Slab';
@@ -203,7 +214,6 @@ hr {
 }
 
 .slideshow {
-    margin-top: 2em;
     margin-bottom: 2em;
     background-color: rgba(44, 44, 44, 0.81);
     border-radius: 10px;
