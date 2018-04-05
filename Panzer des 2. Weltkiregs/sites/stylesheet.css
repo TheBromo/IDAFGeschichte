@@ -142,7 +142,12 @@ li {
 
 ul {
     margin-bottom: 2em;
+    padding: 10px;
+    background-color: rgba(44, 44, 44, 0.81);
+    border-radius: 10px;
 }
+
+
 
 .specifications {
     padding: 20px;
@@ -300,4 +305,7 @@ hr {
 
 .distances {
     width: 100%;
+
+    background-color: rgba(44, 44, 44, 0.81);
+    border-radius: 10px;
 }
