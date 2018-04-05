@@ -38,7 +38,6 @@ html, body {
     color: white;
 }
 
-
 #legend img {
     vertical-align: middle;
     height: 50px;
@@ -50,11 +49,11 @@ html, body {
 
 .content {
     font-family: 'Roboto Slab';
-    width: 600px;
+    width: 300px;
 }
 
 .body-content {
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 1.2em;
 }
 
@@ -62,6 +61,7 @@ html, body {
     color: #262626;
     text-decoration: none;
     transition: 0.2s;
+    margin-top: 15px;
 }
 
 .body-content a:hover {

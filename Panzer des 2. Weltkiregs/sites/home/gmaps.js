@@ -185,6 +185,7 @@ function initMap() {
             '<h1 class="title">Panzer V - Panther</h1>' +
             '<span class="origin"><img src="../pictures/NSDAP_flag.png"><p>- Deutsches Reich</p></span>' +
             '<div class="body-content">' +
+            '<p>Einsatzgebiet des Panzer V - Panther</p>' +
             '<a href="../panther/panther.html">Mehr zum <b>Panzer V - Panther<b></a>' +
             '</div>' +
             '</div>',
@@ -231,11 +232,38 @@ function initMap() {
             '<h1 class="title">Sherman Firefly</h1>' +
             '<span class="origin"><img src="../pictures/uk_flag.png"><p>- Vereinigtes Königreich</p></span>' +
             '<div class="body-content">' +
+            '<p>Einsatzgebiet des Sherman Firefly</p>' +
             '<a href="../sherman/sherman.html">Mehr zum <b>Sherman Firefly<b></a>' +
             '</div>' +
             '</div>',
             usage: [
-                new google.maps.LatLng(53.29601, 5.71624), new google.maps.LatLng(49.93775, 1.60512), new google.maps.LatLng(49.52165, -1.92372), new google.maps.LatLng(49.3178, -1.79644), new google.maps.LatLng(49.1131, -1.58126), new google.maps.LatLng(47.221, 1.54757), new google.maps.LatLng(46.54322, 5.99476), new google.maps.LatLng(47.21709, 6.83843), new google.maps.LatLng(47.50635, 6.86476), new google.maps.LatLng(47.60596, 8.28417), new google.maps.LatLng(47.84774, 8.55443), new google.maps.LatLng(47.49529, 9.76621), new google.maps.LatLng(47.13912, 9.63602), new google.maps.LatLng(46.86224, 10.1885), new google.maps.LatLng(46.92263, 10.66407), new google.maps.LatLng(46.65577, 10.45965), new google.maps.LatLng(47.65327, 13.01281), new google.maps.LatLng(48.69737, 13.86308), new google.maps.LatLng(49.98758, 11.90418), new google.maps.LatLng(50.87549, 14.05034), new google.maps.LatLng(51.49312, 13.10469), new google.maps.LatLng(51.69621, 12.20979), new google.maps.LatLng(52.11817, 11.54561), new google.maps.LatLng(52.5078, 11.94209), new google.maps.LatLng(53.00331, 11.52108), new google.maps.LatLng(53.84482, 9.23983), new google.maps.LatLng(53.72536, 8.03366),
+                new google.maps.LatLng(53.29601, 5.71624),
+                new google.maps.LatLng(49.93775, 1.60512),
+                new google.maps.LatLng(49.52165, -1.92372),
+                new google.maps.LatLng(49.3178, -1.79644),
+                new google.maps.LatLng(49.1131, -1.58126),
+                new google.maps.LatLng(47.221, 1.54757),
+                new google.maps.LatLng(46.54322, 5.99476),
+                new google.maps.LatLng(47.21709, 6.83843),
+                new google.maps.LatLng(47.50635, 6.86476),
+                new google.maps.LatLng(47.60596, 8.28417),
+                new google.maps.LatLng(47.84774, 8.55443),
+                new google.maps.LatLng(47.49529, 9.76621),
+                new google.maps.LatLng(47.13912, 9.63602),
+                new google.maps.LatLng(46.86224, 10.1885),
+                new google.maps.LatLng(46.92263, 10.66407),
+                new google.maps.LatLng(46.65577, 10.45965),
+                new google.maps.LatLng(47.65327, 13.01281),
+                new google.maps.LatLng(48.69737, 13.86308),
+                new google.maps.LatLng(49.98758, 11.90418),
+                new google.maps.LatLng(50.87549, 14.05034),
+                new google.maps.LatLng(51.49312, 13.10469),
+                new google.maps.LatLng(51.69621, 12.20979),
+                new google.maps.LatLng(52.11817, 11.54561),
+                new google.maps.LatLng(52.5078, 11.94209),
+                new google.maps.LatLng(53.00331, 11.52108),
+                new google.maps.LatLng(53.84482, 9.23983),
+                new google.maps.LatLng(53.72536, 8.03366),
             ]
         },
         t34: {
@@ -246,6 +274,7 @@ function initMap() {
             '<h1 class="title">T34-85</h1>' +
             '<span class="origin"><img src="../pictures/soviets_flag.png"><p>- Sowjetunion</p></span>' +
             '<div class="body-content">' +
+            '<p>Einsatzgebiet des T34-85</p>' +
             '<a href="../t34/t34.html">Mehr zum <b>T34-85<b></a>' +
             '</div>' +
             '</div>',
