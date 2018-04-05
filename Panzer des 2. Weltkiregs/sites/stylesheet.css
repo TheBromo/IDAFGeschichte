@@ -32,13 +32,18 @@ body {
 }
 
 .pagetitle {
-    font-family: 'Germania One';
-    color: #D5D5D5;
     background-color: #2C2C2C;
     width: 100%;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.pagetitle a {
+    font-family: 'Germania One';
+    color: #D5D5D5;
+    text-decoration: none;
+    font-size: 2em;
 }
 
 .navigation {
