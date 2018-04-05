@@ -1,20 +1,75 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 #map {
-    height: 600px;
+    height: 100%;
     width: 100%;
+    color: black;
 }
 
 #legend {
-    top: 0;
+    background-color: rgba(44, 44, 44, 0.81);
+    border-radius: 10px;
     font-family: 'Roboto Slab';
     font-size: 2em;
     padding: 10px;
     margin: 10px;
+    color: white;
+    cursor: pointer;
 }
-#legend h3 {
-    margin-top: 0;
 
+#legend div {
+    margin: 10px 3px;
 }
+
+#legend h3 {
+    display: inline;
+    text-wrap: none;
+    margin-left: 10px;
+    color: #4C4C4C;
+    transition: color 0.45s;
+    font-size: 1em;
+}
+
+#legend h3:hover {
+    color: white;
+}
+
+
 #legend img {
     vertical-align: middle;
     height: 50px;
+}
+
+.title {
+    margin-bottom: 10px;
+}
+
+.content {
+    font-family: 'Roboto Slab';
+    width: 600px;
+}
+
+.body-content {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.body-content a {
+    color: #262626;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.body-content a:hover {
+    color: #4b4b4b;
+}
+
+.origin {
+    justify-content: flex-start;
+    font-size: 1.2em;
+    font-weight: 700;
 }
